@@ -1,12 +1,14 @@
 .navbar {
     background: #53c985;
     color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px red, 0 0 5px darkred;
     min-height: 50px;
     font-size: calc(10px + 14 * (100vw - 320px)/ 800);
     width: 100%;
     white-space: nowrap;
     border-bottom: solid 5px #e80308;
     border-radius: 0 0 15px 15px;
+    box-shadow: 5px 5px 8px black;
 }
 
 .navbar-nav {
@@ -44,8 +46,9 @@ a, a:visited, a:hover, a:active {
 }
 
 .navbar-brand {
-    color: white;
+    color: inherit;
     font-size: inherit;
+    font-weight: bold;
 }
 
 

@@ -3,14 +3,17 @@ import Wrapper from "./components/Wrapper";
 import ImageCard from "./components/ImageCard";
 import images from "./images.json";
 import Navbar from "./components/Navbar";
+import Header from "./components/Header"
 
 function App() {
   return (
     <>
       <Navbar />
-      <Wrapper>
+      
+        <Header />
+        <Wrapper>
         <ImageCard image={images[0].image} />
-      </Wrapper>
+        </Wrapper>
     </>
   );
 }
