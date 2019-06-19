@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "name": "Fry",
+    "image": "https://i.pinimg.com/originals/c2/73/1d/c2731dea4191b182ecd8f18498562a84.jpg",
+    "images": "./assets/images/fry.png"
+  },
+  {
+    "id": 2,
+    "name": "Hi",
+    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014"
+  },
+  {
+    "id": 3,
+    "name": "Hi",
+    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014"
+  },
+  {
+    "id": 4,
+    "name": "Hi",
+    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014"
+  },
+  {
+    "id": 5,
+    "name": "Hi",
+    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014"
+  },
+  {
+    "id": 6,
+    "name": "Hi",
+    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014"
+  },
+  {
+    "id": 7,
+    "name": "Hi",
+    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014"
+  },
+  {
+    "id": 8,
+    "name": "Hi",
+    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014"
+  },
+  {
+    "id": 9,
+    "name": "Hi",
+    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014"
+  },
+  {
+    "id": 10,
+    "name": "Hi",
+    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014"
+  },
+  {
+    "id": 11,
+    "name": "Hi",
+    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014"
+  },
+  {
+    "id": 12,
+    "name": "Hi",
+    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014"
+  }
+]
