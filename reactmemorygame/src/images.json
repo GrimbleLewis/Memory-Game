@@ -2,62 +2,62 @@
   {
     "id": 1,
     "name": "Fry",
-    "image": "https://i.pinimg.com/originals/c2/73/1d/c2731dea4191b182ecd8f18498562a84.jpg",
-    "images": "./assets/images/fry.png"
+    "image": "https://lh3.googleusercontent.com/lX1POUemsaYQ25BAZU3MPhnc4N7nQAOLF6CNTp72Zjl8k87Q_D7QkziL6Oz9TVtbsYQT4S2ts0obQbwS48VrQmponHqdfBcGrSFkM6HxpbSC8X1cA7dzqWQm7gepsfheS9ug3bb8PC4iCzBNZ81h11_BWwLnp_5lckWtE4ZOtaTeTHnqqqeLwm_MDls06gdfCVm8AZD0imbrBvfqNopce7f2GZYzfIkIi78Zc8h2QyA_icCa6ivLaJcHg20HY0R5_wEoExFfvHgrTrlbjQyNX2SWt6IQIWTOFsKBKfXi3WEPLay2DS0fN37M8MOVVGHFK4wmmpnxbdvTeeQuBqoRF4vgk9gqAZCqM58cD_OIpeoP22ie3BVzH2_lAsvqKU2KBx1d7mgKVW73SFrIZBlfC_ybQKlsmOqTnsMD6HFkiYRVxR30FzFvY23Jv6Q4BZoq6ziiLc6OLcQymOYHu4SmqSBbdMVpIMIdrhuARWmYpKMQU7-S7I2sirKFE8OvJNvG-qO4_JQCWKxNMCinlorBWmbWPrFDHeighbzA3gdojzblxfFOq0CLkSDISig1VZI9AyslQMb5o-65iFTphQHPBl9HLsZgg8aiFh9vdMysbbRiJDfQOHzHMe51XibOPCxLbMcpU_fstbSNn79rHIY47GsD1cse6mg=w768-h873-no",
+    "images": "url(./assets/images/fry.png)"
   },
   {
     "id": 2,
-    "name": "Hi",
-    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014"
+    "name": "Amy",
+    "image": "https://lh3.googleusercontent.com/iFo8S_pfzEaMTleVYSZwk-OK4gqwx7XtLNkd_Gb_iVdpTNqUI7vMUohi9kVql_i9oP0O-Z4_-bZtYqrGod3emFeeAaOkc7BAh8hw4meBpeO4RWvxTRfZNfnoHn5aztKdIrpuoWIVetluaq7RunR3ADtjlvGuMP89gKn5kjW9tFUYzGvi1fk0PkYPA9X-i75ZJ1rOPCC3pB665k8cisPjPbZMzQL1SvUBh-A5GJKlEDmkSgSt9OY5HurtGZooZywMDl2ZqupnT__uYZzulWYI6qWpsDXAydR8j2skbQT6tO7uze-X454DR4Q0DDi6Hp5WIAyfcbUb5I4rC7ogmwOVjo0qoAFYUzUnzSwvVJ-4G_C2rFZNIi85y7yprg4qgKV5eR_if0FM3Ea2blqqoUGMBiAC06Z31WKNO-AbKDyDNpEwJ3Yoca4RUh-lDsd0hnwzgZFSRRleA41e1IGUHbhUnHLO0D53DUkzxXUipUGGqDF3GD2pJYm3ri2H_n5oUN2KOw-F38kFyFeqOSHYi3kdmdhRTrBcOIv66ZHM2bciaKDkj7DCPMHzxPCb0hYQ0rtrkELJfToNQhk8WHRmyq4pVgBBiBLnScTHbjk79Qh6r92dZG6VNrRv8IzkCx27xwyzuj59cGg_FuXs-do1kin8xcayT6gfUJ8=w300-h225-no"
   },
   {
     "id": 3,
-    "name": "Hi",
-    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014"
+    "name": "Bender",
+    "image": "https://lh3.googleusercontent.com/UZzR3cwpdL4fqwyoCiC0PzpfEtAKRTQ9WqVrRmuFD21XRhSopUB8V6rVfXNYsWMAeMfYT7dhNhDjfGe3lGApa59b31f7lDJBeYT9E37Dgll2qfunzGh2gyJkSFNTzx8nBilA4yAlTPq7frKr9C71fVkX7fJEpKo8ISifi5rYNJ0_KTc75RK5JMid21KLnkvZ83GkHo57SN8FukP2pfb-7cbzm64VCq_6bwjCVNgxAM9I-vyqWpm11EbG5d4lKbfMDjB4J4usldwfiFWXF62riN--ZG2ErjyC1Bj_wjuwyxJ5Y4MmVy7Nij0WEnK78KacxiIJ2P6AhwPObocFiJ67ge4TcWWiWm-M5_2z-E5k6Bh2MFa1sPUMc2i0TZwFpLSOtcP9-9JU8OW2caTPZ4LKoft__8ThobXV67uNYErLcOfCQIf6r7EPVbjZhIcKjYKtt6G6uszChrb_5ZdL3jO3dA0aC96dzJdtxwBYDLsXC223unGMjLbX4T556nMOh1pEYaIA0QLVJIvucMHXm9VRyq4ZIFljS41Lu58d11pfAopNHKgS0mRdR7GrKlwewA709lt2dKLiHJId5mgzjNyalybRKhWpEuPrybYlHqamPbULPbFatG5v9GqUaR9N2rhrvtr8fWOsT0F4Lnkc5pTQCXMasRwnvfo=w640-h360-no"
   },
   {
     "id": 4,
-    "name": "Hi",
-    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014"
+    "name": "Leela",
+    "image": "https://lh3.googleusercontent.com/F8f4DgOTqULwEzsXrwPoYDFUWmaDfZTPzQurYpVSVzYSxPzw_dxAzlFA5rgWSEQrj6lJ4qieGZmGEq0xky32gH6hOsD7Ag1wVSemsHuGbMvcjW-5871S8hz96QLb2uUutzQ6CYxNJoe7vxpH-LZCzM9zaYtrbDuzv2TARA8rOcacJudjGj7-Y3_mevAUlltXWDm3ja4P2k_sTzEtAHjzo6MVkeSz0pKhnOe1GEZR2YAzTyZqn9SmErEU8-BoODxk9K1vlchOc0qIMvDpd0gcl004Juyz7ZcoooefL5jJcKRO573lZ2M9WoCje0eefGyhV8aoDQbANF5eFGYCX-sxRcD8yzdybE2Ewh6OyZeJHNTKjYHj4oL62Ez0cosHCo7mHR2CcK-pnZBqhFR-NUPxUcykhe6RuPGKF1fcAWejSS7zgTrErBfSIq3XaRhpT9ClFNdT0ECxnF0VbRYb4tV58X3E_92fMvd0b6ZUUzCk3-0cMjk6Mrpl4nEVht7HLlgaSoaTD8g1FYGO8f0fvTD4gOp6MREBDFKSbJOwjkignn-0W_ON9MN72pkBLNuX_XercsOAp61zI67PBwivtFobs74rNnN26n4hfg88NvkwlaQWK5YjXUChxmHUAdE5IJ-h0NWSbiVSDHD8FvrKxsdFZ9FNRJghmUA=w335-h447-no"
   },
   {
     "id": 5,
-    "name": "Hi",
-    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014"
+    "name": "Professor Farnsworth",
+    "image": "https://lh3.googleusercontent.com/IOl0BumSoF4BLbwXPZVYEJtcYkOzPyOqhQ_2v4fos7Dxyex9QgFEWy6Q2Q_gQ_X9J-1l9pagS7tZaSTc7lgSYMNqoh90Qw5hn3rqFqZCSdaJ2lKXXBl6zrzxVuO3YX3LN-AMlhfEi89qdzH7ap8n062wGMYV2yQUgNHj3hXaTu273S1CJx1j3XcbDsldRlp3XTXiv34scXr0Lei-kf29YvZw4RbprUio777jobpyAqRRKllGtLfuYF3beT7Pqq8OXd11wV4PtUgpn7PduHLPnMJX5sILj7Qip-xw6_5OYpXZUXchv3bOORlfmjIVqZ1XYef8qcmr3uHkd9TLor856Jykxzd7xVmDIcq07exk1Q_E0_Ab8UhHDoY2pc4IwrzktQc0BLG4Y1fe4jxROXiS1D78ibZZ9VoVX70cUMdJu2qMWLuIjIaFGPKY9IVsIRXVm9po5tvqa14u67pFFyfyXaM9cR0roIV9LgNZ1EAxKHkbNIn9rEl49U3DtiHrfVf_DjDC7JHaCfX86qr0ecebiq44Vkq2rELx3uED8Jej-GZl4eiXyvE5_Sa0qTFYldnaQI07nZ8Qi5wi0yRsgiAP0rEXnm6MpKohV48ZYiVJdmul5g-Jl233v0MyjV0PXZ2riBIYmaRCp1lXS6_nBKTGRNZ-8xtdUDM=w420-h263-no"
   },
   {
     "id": 6,
-    "name": "Hi",
-    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014"
+    "name": "Zoidberg",
+    "image": "https://lh3.googleusercontent.com/AZjd8_p2OF9l4oRJZYQWrwvhoSIvhzrDiUqou4rbeJtriZEAGDqmvlo6moHN8slLb4DZCxU79w=w328-h293-no"
   },
   {
     "id": 7,
-    "name": "Hi",
-    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014"
+    "name": "Hypnotoad",
+    "image": "https://lh3.googleusercontent.com/I_crgwrbMYtPttkywW4jIJtpEeBBE6Zy5ADUoNmUn9tqOvPuohWnJSyURoLT8Eqqa2gPSEQCepzkzaCvVur1tbgtWox-tULIFelRfbFtdwQvtD3Gj1_hJVwyANFTMp-v0AjsEHlV6pfjyLbNyy0qMRr8mp6CuOJhVIw-Y99S9ahgntlQcNyNr5fD64bcIkS6rdKRPPF4RPBd--Rv1DqBj1b1Et75ZRWNEaoFNFFa7EdKy6Eb0elOE8HyTvrw9UBK-JxUE7Js2baNUWXhM-3wm4RoJ10EBKf8ozh5SbPuiQc0TGylaZX8t9uKc_uzX3-NaF_gW69z0TsdkCzwZLxEDed5VyYTh_oqeNa_Svu_8OQ0Iw7FcIYDK0gOsi1d9haY52R-HEpOWFJ98_rzVzMijObHndlKHEflfWaoEzn0VMVPLVSFp_quYVIrXzV_fIwoY5k5OQDbhOoc5SY-LhJH9Q4daR_ayGXKfsm-olXSvb1CC8mVMi8tTCrvjfgxDM0YZQMw1gqZdbulWr6SWh9CllhqvVRdG0qKsbYYq1GwGMnMZePnQeBX4WN_C0DMpDJDEYOeJ6mu6wkL-p85M7pUlCMc7eN8yym11w5Hz0zFax3zB4Akn3bLgZNmZgKO1EqOPH9FCifYn_iEdcvadXrbQni-dXe0CAA=w500-h350-no"
   },
   {
     "id": 8,
-    "name": "Hi",
-    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014"
+    "name": "Hermes",
+    "image": "https://lh3.googleusercontent.com/M537d-2O3y5UmuQ-TurZhw4CUV5AMmV9AaaT4ErDY0d36u_cCi97GhMe0A4i2FaZBx2Q2XETdzgwt9jkG2wHTx6_kH5mkneM5NscEbgDVQiaRlWIU66wiFT8GcLDozHNCHpJPR_knnj5AevSEQkzkdzhirxbUuDczGDBCO9668A1btF7J3qbHPfmkpdrxspYism5A0sZwO8IbLaW7T705fiZtfgtl1oyXUOMQPyXBKg45DTKgZb4RyEJDxKbwHmiyvbMxQBi7fQLJgtBMfy3SlNLOMnfwMk5T8qTWYnUG-9Lmwwu4V9QUpfdNP87GX9Ao7DmK1kvPa8aovAXu2lqH1EvUtxRNpyG_9KKMTrTOX5NKp2dDCFbbH-4Q-rqZ-upOpBBQeIeU2JAe9Ac_ycaOhKcMJKr_8fUrsm96DQJzFCu024N0Dy-l4bhIH6zi_xq_e62pI9coJP9AheLuA-E75bbJDA4LBQNlfz1KnQJbJfQcwxzJpY9ryZH0q7jdYnFNteSv9wRYLJ5rHgpJXwld9WlfrWZb9Al3BCWbGQ-HpJh-vQvQLm-Z8F4z4-PukNIhUiGmuCyVKP-6CZEKXoMV8S1kkw-upKVIYA2VFJeAA1NN3LUZx0Zd1pWVw3-8_4USKzGedsvrNpzku0vZw7vDhaWYQn-18E=w500-h393-no"
   },
   {
     "id": 9,
-    "name": "Hi",
-    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014"
+    "name": "Nibbler",
+    "image": "https://lh3.googleusercontent.com/ZDIEBSEAy6OpF6cFdpz7aP7a4PV724eBr9RXZtAzf1QhkrXDgPKMD06Q3Z_xDkoZTLp88m8ZRkHSZXZFmjQY9szejhpyMZo_gyG5hovdLwlbw9zJLquzLliHyPYblkzW6tNNQRW7nIx9YsUt8iRP-1qKoQH26k_ss0z3uTqbikho1sJUNrJj_FmWQo6rx04vh-KIzHHsvX7MVLcWzfSfw1vTyehmh2vuEOYIE3aktjrY_E0baevadw-iiImtdLTf32XcCb13mfAAIrfi9UEiGkP4OnpKEIfn81umOtn7qFWchJlTZf4qS1JjXr2b8C89GYShzMegYT_-j8F61gr_6g-u23qJktN-Ii3EoW4fkyMxL_UtPvLGhdS9WPOoTRkPZ-jEgNnL8tD2A43tDTtTPG1Hi4D7-ke0zZQKw_NJ5SUhH4xZAGliWQpkgkm1HNKYM_IGIPShgi2PVFGb902KTdVFzBqUyhOZ3ShGXMBPRPhQMtkXmi3FcUnariZNJpP8E_HrnzuJNo0BqUiPOJ65AxNUvfkanm2zsOsC7ZzxhIIjiwm7CSgkaO4ftQv7Z1Sg_dSyZnZxSK60qXg7dUzh7kCQuqAr-H6smPvukfZIt__uPW_srU3b-H2rNG_024D1_TSgogfPXt9_70hvwMPk3jcZRqNwB6I=w225-h172-no"
   },
   {
     "id": 10,
-    "name": "Hi",
-    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014"
+    "name": "Zapp",
+    "image": "https://lh3.googleusercontent.com/x3OqCqZH2Gdw73seXiFTZ2xhMMvELR2rnpKz2vT7LHLkk4kyfnRsvNevKR9sLmMKerCkxW7pa2KTOJtDC8DSHvU_WJlKqKybMmrGjA-iVxYqrId2v1bqqO81Pl9jBPOSRWGOATAlAwYU0bMv6jt-4Tf6RXl7BIO2smmYmru3QkY_9pKspJ3t75gyTs0Pl2Zgq1BA18auR6YDqkVydD9NNYTshLLtVOA4TawsbIZJyhkx7cE5oOma8edAiz0iF6CxA4RRibXCXaYDbrjxKHSvGMR3pZTdyYpYPlx3bozoc9J5SPwsPqIcB1JNcjONLLk_opQrLOOLTFQfghoHUaO9jP9Ae0Cqso1rrbisBeAaH6IYThqRrKxHpfu8oJPT9_xAHfW3M5GtP__bncJiZaXCZs4bLMj-x42fCMOAZUsBi3DOFW2gTpjUqXu367tugCZz1HkJKK_nr9M8g3a53TTopgAXV6WlshzE6yR2j-ioLD_fo17654y0BLiLYqk-FsnWQRAFTGAXe60Rmc1QJX_zWPMXNzPCucSP1Y9LACBQ1OUes43ixSSu__J_SHsTlA3PlkvxcXfo-dfG1442hrZR21JIPtQnWDxWqGPWEqbAjW7-_N6iIHwZMKGUPodXzv8Xl4sieLhTuj9iMwvwcPHHjcWffvXE6-M=w512-h384-no"
   },
   {
     "id": 11,
-    "name": "Hi",
-    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014"
+    "name": "Kif",
+    "image": "https://lh3.googleusercontent.com/oEsYBG7Yl4mi7UCu6tVIdxb6tlaoQHwapaR1o0CgctHvsz2m0Z7lMSrPamZy-kfhCjXb2mINko9GaTYXdM0_ZL3GddLRZOxCQWUa3R-istmV_w9MGmxk7xGh-OpI5NfGYyeFRuJQ67tQRaAjVBAoRyRs1PluhYZJmtVIFiv-rcNi1JXUJ2DmArdMh1DU9yaZ_cYPQOCNdhsAhdai5wFto5aXpJecvpOs6x8VZQA2NcotQf8fToZDaX7lC9uUs7Xk_MuNPmCMBp0VZtTCVmlcCjV8PmMWWx9Ms1ECEKbw5IE0-r9z13NaFsU1CT04NtVpF9tumij0oEHkNwxSG7HvDWexK6imjdLWBrkYguyHVOef3F0wBK994qh2TsQET1bPnTLXbWOmDnzzc2ZndMzZp0He6oukd9AY8SOUYlFLUuGc-kP8LgKLi7DyKJ3smutTszCVdvEQIcaezsdwApiQJn2NM-4hVC21aCJcQx_gTrpR-OHLdqpBBlTDgUf-lsyhDPTz2YKXdVnXJyBLPbN3lsPtpYn-3qdRWUUs_8jpnRndETO3cnthLqriybA1zvTESfCHeK9-fYfKWTpKHiUcpIC788gMTiI_qjnGJZ3s1o-CIcYI2uNsX6WRZN7nyBI8-PeGnTZ_XwGLxxrroiFv3cGHKND6kPw=w444-h458-no"
   },
   {
     "id": 12,
-    "name": "Hi",
-    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014"
+    "name": "Mom",
+    "image": "https://lh3.googleusercontent.com/s5DL54sQOYiKN--Y34Jo2nCWXhNa8NrOyARPvWrnqZH8TANsN33kiYlm_PAcr1cxvFAGwB2ci5DIqcbgksREus-gzsTqEGP7F0go_JSbUMdT9TbUsznzM-z2VqcsPW7tTwAJLTXOrsDbGWOPBIcjGnawkDhMq7Z42avymLTuDFle1Y2gE9eB-KaMZSJj2qArTLNgoSqQYxq0GlD5LUr4MnZK31n03taXHQDvYC3QW3SNUSSsLtc6s0DJQREVzBWYbOVYGy9Cag5yy2rSnoZXXxL8l0CbzzfRk3UsTal_qxkV32kDdNZdFD_uRKEldJsRx3J0VOtDnXPW08GEhehxFI_MRWfER-pIYlCnrVwoucIMs0TElQ3tSgdVqh89u_fyyhP9RJtocxzdKaJcZKK0TZrsQ0sGrVmxRTZehwAqTOuVTjLdkhe9ngxA9u_9muJNRz33TNKYYijRIYTPCDSQaUi7GK84SqvHM_cVsQ_U0xMXJvS0l3otVv-n7rhVAJ32HPKVI_dXaDLVDGES8GRPqtP_3aKX98pyHtBd9v-dArkG5_P2AFWanQAGGPq8cf1pf5o3DJsrIcyl3HSZ8G5IyKjkckZTY3F0twzpS4_1yB12oOR2oa4JZhLTC-WZE_Cz8leOIQ6zeyOJvn0_PGQ07iJQ4i_iTwA=w534-h421-no"
   }
 ]

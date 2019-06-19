@@ -1,7 +1,7 @@
 .navbar {
     background: #53c985;
     color: white;
-    text-shadow: 1px 1px 2px black, 0 0 25px red, 0 0 5px darkred;
+    text-shadow: 1px 1px 2px black, 0 0 15px #e80308, 0 0 3px darkred;
     min-height: 50px;
     font-size: calc(10px + 14 * (100vw - 320px)/ 800);
     width: 100%;
