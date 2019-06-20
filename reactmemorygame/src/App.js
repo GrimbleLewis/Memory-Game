@@ -4,6 +4,7 @@ import ImageCard from "./components/ImageCard";
 import images from "./images.json";
 import Navbar from "./components/Navbar";
 import Header from "./components/Header"
+import Footer from "./components/Footer"
 
 function App() {
   return (
@@ -24,8 +25,10 @@ function App() {
         <ImageCard image={images[9].image} />
         <ImageCard image={images[10].image} />
         <ImageCard image={images[11].image} />
-
+        
         </Wrapper>
+        <Footer />
+        
     </>
   );
 }
