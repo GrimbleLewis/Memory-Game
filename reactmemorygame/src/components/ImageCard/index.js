@@ -1,4 +1,5 @@
 import React from "react";
+import Counter from "../ScoreCounter"
 import "./style.css";
 
 
@@ -12,5 +13,6 @@ function ImageCard(props) {
   </div>
   )
 }
+
 
 export default ImageCard;
