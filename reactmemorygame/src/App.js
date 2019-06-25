@@ -1,36 +1,61 @@
-import React from "react";
+import React, { Component } from "react";
 import Wrapper from "./components/Wrapper";
 import ImageCard from "./components/ImageCard";
 import images from "./images.json";
 import Navbar from "./components/Navbar";
-import Header from "./components/Header"
-import Footer from "./components/Footer"
+import Header from "./components/Header";
+import Footer from "./components/Footer";
 
-function App() {
-  return (
-    <>
-      <Navbar />
-      
+class App extends Component {
+  state = {
+    images,
+    score: 0,
+    topscore: 0
+  };
+
+
+  shuffleArray = array => {
+    let currentIndex = array.length, temporaryValue, randomIndex;
+  
+    // While there remain elements to shuffle...
+    while (0 !== currentIndex) {
+  
+      // Pick a remaining element...
+      randomIndex = Math.floor(Math.random() * currentIndex);
+      currentIndex -= 1;
+  
+      // And swap it with the current element.
+      temporaryValue = array[currentIndex];
+      array[currentIndex] = array[randomIndex];
+      array[randomIndex] = temporaryValue;
+    }
+  
+    return array;
+  };
+
+  render() {
+    return (
+      <>
+        <Navbar 
+        score={this.state.score}
+        topscore={this.state.topscore}/>
+
         <Header />
         <Wrapper>
-        <ImageCard image={images[0].image} />
-        <ImageCard image={images[1].image} />
-        <ImageCard image={images[2].image} />
-        <ImageCard image={images[3].image} />
-        <ImageCard image={images[4].image} />
-        <ImageCard image={images[5].image} />
-        <ImageCard image={images[6].image} />
-        <ImageCard image={images[7].image} />
-        <ImageCard image={images[8].image} />
-        <ImageCard image={images[9].image} />
-        <ImageCard image={images[10].image} />
-        <ImageCard image={images[11].image} />
-        
+          {this.state.images.map(card => (
+            <ImageCard
+              id={card.id}
+              key={card.id}
+              name={card.name}
+              image={card.image}
+              shuffleArray={this.shuffleArray}
+            />
+          ))}
         </Wrapper>
-        <Footer />
-        
-    </>
-  );
-}
 
+        <Footer />
+      </>
+    );
+  }
+}
 export default App;
