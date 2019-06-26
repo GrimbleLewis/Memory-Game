@@ -5,7 +5,7 @@
   display: flex;
   flex-flow: row wrap;
   min-height: 80%;
-  justify-content: center;
+  justify-content: space-around;
   align-content: flex-start;
   overflow: auto;
   margin: 0 auto;
