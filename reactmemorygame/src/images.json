@@ -2,73 +2,73 @@
   {
     "id": 1,
     "name": "Fry",
-    "image": "../images/fry.png",
+    "image": "images/fry.png",
     "clicked": false
   },
   {
     "id": 2,
     "name": "Amy",
-    "image": "../images/amy.png",
+    "image": "images/amy.png",
     "clicked": false
   },
   {
     "id": 3,
     "name": "Bender",
-    "image": "../images/bender.png",
+    "image": "images/bender.png",
     "clicked": false
   },
   {
     "id": 4,
     "name": "Leela",
-    "image": "../images/leela.png",
+    "image": "images/leela.png",
     "clicked": false
   },
   {
     "id": 5,
     "name": "Professor Farnsworth",
-    "image": "../images/professor.png",
+    "image": "images/professor.png",
     "clicked": false
   },
   {
     "id": 6,
     "name": "Zoidberg",
-    "image": "../images/zoidberg.png",
+    "image": "images/zoidberg.png",
     "clicked": false
   },
   {
     "id": 7,
     "name": "Hypnotoad",
-    "image": "../images/hypnotoad.gif",
+    "image": "images/hypnotoad.gif",
     "clicked": false
   },
   {
     "id": 8,
     "name": "Hermes",
-    "image": "../images/hermes.png",
+    "image": "images/hermes.png",
     "clicked": false
   },
   {
     "id": 9,
     "name": "Nibbler",
-    "image": "../images/nibbler.png",
+    "image": "images/nibbler.png",
     "clicked": false
   },
   {
     "id": 10,
     "name": "Zapp",
-    "image": "../images/zap.png",
+    "image": "images/zap.png",
     "clicked": false
   },
   {
     "id": 11,
     "name": "Kif",
-    "image": "../images/kif.png",
+    "image": "images/kif.png",
     "clicked": false
   },
   {
     "id": 12,
     "name": "Mom",
-    "image": "../images/mom.png",
+    "image": "images/mom.png",
     "clicked": false
   }
 ]
