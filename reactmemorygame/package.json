@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "homepage": "http://GrimbleLewis.github.io/memory-game",
+=======
+  "homepage": "http://gnpmrimblelewis.github.io/Memory-Game",
+>>>>>>> b36c7859d4e551a0451aa24dd4e7b6af31ec2ecd
   "name": "reactmemorygame",
   "version": "0.1.0",
   "private": true,
@@ -10,10 +14,10 @@
     "react-scripts": "3.0.1"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
-    "build": "react-scripts build"
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -28,6 +32,6 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ]    
+    ]
   }
 }
