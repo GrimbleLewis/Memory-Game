@@ -7,6 +7,9 @@ The game is simple, Click as many images in a row without clicking the same imag
 
 This app introduces the basic layout and functionality of React by using functions to manipulate the state in the components in order to establish the rules.
 
+![Memory Game Preview](./reactmemorygame/memorygamepreview.png)
+
+
 Check out the game here!
 
 https://grimblelewis.github.io/Memory-Game/
